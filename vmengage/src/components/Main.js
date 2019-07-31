@@ -18,7 +18,7 @@ class Main extends Component{
                 <Route path="/home" component={Home} />  
                 <Route exact path="/" component={Home} />  
                 <Route path="/rewards/redeem" component={Redeem} /> 
-                <Route path="/events/detail" component={EventDetails} /> 
+                <Route path="/events/detail/:id" component={EventDetails} /> 
                 <Route exact path="/events" component={EventsDisplay} /> 
             </div>
         ) 

@@ -44,4 +44,21 @@ Custom Styling
 .event-highlights-container, .winners-highlights-container {
   background-color: white;
   color: black;
+  height: 250px;
+  width: 300px;
+  overflow-y:auto;
 }
+
+.feed-item {
+  background-color: white;
+  color: black;
+}
+
+.image-container img{
+  
+  height:100%;
+  width: 100%;
+  
+  
+}
+
