@@ -70,7 +70,19 @@ class EventDetails extends Component {
                                 <h4>Description</h4>
                             </div>
                             <div>
-                                Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+                            At VMware, Innovation Starts Here! The Intern Program in partnership with Enterprise Data and Analytics is hosting its’ first ever Intern Borathon on Wednesday, July 31 in Creekside C - Darwin and Bohr Conference rooms.
+ <br/>
+ <br/>
+ <b>A Borathon? What’s that? </b><br/>
+ Borathon’s are VMware’s internal hackathons and we’re hosting a day-long event just for you! You’ll work together in teams to solve a VMWare problem while getting help from senior engineers, data experts and executive judges in the company.
+ <br/>
+ <br/> 
+ <b>What will we be solving?</b><br/>
+ We don’t want to spoil the surprise! But…we can reveal that the theme for the Borathon is “One VMware.”
+  <br/>
+  <br/>
+ <b>Do I need to be technical?</b><br/>
+ No! We welcome skills from across VMware from technical and nontechnical backgrounds! We hope that you can join us!
                             </div>
                             
                         </div>
