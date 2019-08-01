@@ -55,10 +55,41 @@ Custom Styling
 }
 
 .image-container img{
-  
-  height:100%;
-  width: 100%;
+
   
   
 }
 
+.navbar-brand {
+  padding: 0px;
+}
+.navbar-brand>img {
+
+}
+
+code {
+  background: #fff;
+  padding: 0.2rem;
+  border-radius: 0.2rem;
+  margin: 0 0.3rem;
+}
+
+.vmlogo {
+    padding-bottom : 4px;
+}
+
+.topnav {
+    height: 51px;
+    background-color:rgba(0, 145, 218, 0.9) !important;
+}
+
+.main-body {
+    background-color : white;
+}
+
+.epic-img {
+    height: 200px;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+}
